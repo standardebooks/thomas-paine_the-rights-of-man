@@ -35,3 +35,58 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+q{
+	font-style: italic;
+}
+
+q b{
+	font-style: normal;
+}
+
+q em{
+	font-style: normal;
+}
+
+#chapter-1-2 ol,
+#chapter-1-5 ol{
+	list-style-type: upper-roman;
+}
+
+#chapter-2-5 ol{
+	list-style-type: none;
+}
+
+#chapter-2-5 ol li{
+	margin-top: 0.5em;
+}
+
+table{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	max-width: 90%;
+}
+
+td,
+th{
+	text-align: left;
+	vertical-align: top;
+}
+
+td + td,
+th + th{
+	text-align: right;
+	padding-left: 0.5em;
+}
+
+td.total{
+	border-top: 1px solid #000;
+}
+
+div{
+	text-align: center;
+	margin-top: 1em;
+}
