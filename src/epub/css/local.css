@@ -63,9 +63,18 @@ td.total{
 	border-top: 1px solid #000;
 }
 
+tfoot td{
+	font-style: italic;
+	text-align: center;
+}
+
 /* these are to support headers for tables in chapter-2-5 */
 div{
 	margin-top: 1em;
+}
+
+div header{
+	font-variant: small-caps;
 }
 
 div p{
