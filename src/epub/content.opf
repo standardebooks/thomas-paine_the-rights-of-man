@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-04-26T22:00:31Z</dc:date>
+		<meta property="dcterms:modified">2021-04-26T22:00:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -24,6 +24,7 @@
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
@@ -41,21 +42,20 @@
 		<meta property="term" refines="#subject-3">sh85056908</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/thomas-paine"&gt;Thomas Paine&lt;/a&gt; wrote the first part of &lt;i&gt;The Rights of Man&lt;/i&gt; in 1791 as a response to the furious attack on the French Revolution by the British parliamentarian Edmund Burke in his pamphlet &lt;i&gt;Reflections on the Revolution in France&lt;/i&gt;, published the previous year. Paine carefully dissects and counters Burke’s arguments and provides a more accurate description of the events surrounding the revolution of 1789. He then reproduces and comments on the “Declaration of the Rights of Man and of Citizens” promulgated by the National Assembly of France.&lt;/p&gt;
 			&lt;p&gt;The manuscript of &lt;i&gt;The Rights of Man&lt;/i&gt; was placed with the publisher Joseph Johnson, but that publisher was threatened with legal action by the British Government. Paine then gave the work to another publisher, J. S. Jordan, and on the advice of William Blake, Paine went to France to be out of the way of possible arrest in Britain. &lt;i&gt;The Rights of Man&lt;/i&gt; was published in March 1791, and was an immediate success with the British public, selling nearly a million copies.&lt;/p&gt;
-			&lt;p&gt;A second part of the book, sub-titled “Combining Principle and Practice,” putting forward practical proposals for the establishment of republican government in countries such as Britain, was published in February 1792.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Rights of Man&lt;/i&gt; had a major impact, leading to the establishment of a number of reform societies. After the publication of the second part of the book, Paine and his publisher were charged with seditious libel and Paine was eventually forced to leave Britain and flee to France.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Rights of Man&lt;/i&gt; is now considered a classic of political writing and philosophy.&lt;/p&gt;
+			&lt;p&gt;A second part of the book, subtitled “Combining Principle and Practice,” was published in February 1792. It puts forward practical proposals for the establishment of republican government in countries like Britain.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Rights of Man&lt;/i&gt; had a major impact, leading to the establishment of a number of reform societies. After the publication of the second part of the book, Paine and his publisher were charged with seditious libel, and Paine was eventually forced to leave Britain and flee to France. Today &lt;i&gt;The Rights of Man&lt;/i&gt; is considered a classic of political writing and philosophy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3742</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001748296</dc:source>
 		<meta property="se:production-notes">Because there are two parts to the work, published originally as separate volumes, each part has its own dedication, prefaces, etc. A single halftitle page precedes both parts. Also, I have had to take some liberties with the many tables in Chapter 5, Part 2, for clarity and to make them work properly in HTML, without changing the underlying data being displayed.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">86820</meta>
+		<meta property="se:reading-ease.flesch">52.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rights_of_Man</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-paine_the-rights-of-man</meta>
 		<dc:creator id="author">Thomas Paine</dc:creator>
@@ -77,7 +77,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85068746</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Norman M. Wolcott</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman</meta>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman M.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
@@ -96,6 +96,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
