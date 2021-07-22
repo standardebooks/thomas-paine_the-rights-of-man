@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3742</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001748296</dc:source>
 		<meta property="se:production-notes">Because there are two parts to the work, published originally as separate volumes, each part has its own dedication, prefaces, etc. A single halftitle page precedes both parts. Also, I have had to take some liberties with the many tables in Chapter 5, Part 2, for clarity and to make them work properly in HTML, without changing the underlying data being displayed.</meta>
-		<meta property="se:word-count">86826</meta>
+		<meta property="se:word-count">86825</meta>
 		<meta property="se:reading-ease.flesch">52.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rights_of_Man</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-paine_the-rights-of-man</meta>
