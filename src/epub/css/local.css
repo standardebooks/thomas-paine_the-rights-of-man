@@ -52,8 +52,8 @@ td + td{
 
 td + td,
 th + th{
-	text-align: right;
 	padding-left: 0.5em;
+	text-align: right;
 }
 
 td.total{
