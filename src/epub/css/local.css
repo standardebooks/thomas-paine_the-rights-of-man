@@ -66,12 +66,17 @@ td.total{
 }
 
 /* these are to support headers for tables in chapter-2-5 */
+figure{
+	break-inside: avoid;
+	margin: 1em 40px;
+	text-align: center;
+}
+
 figure header{
 	font-variant: small-caps;
 }
 
 figure p{
-	text-align: center;
 	text-indent: 0;
 }
 
