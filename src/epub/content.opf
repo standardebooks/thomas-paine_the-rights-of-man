@@ -39,7 +39,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85056908</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="term" refines="#subject-4">no2021139312</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">A philosopher and political activist presents a forceful argument in favor of the principles of the French Revolution and of republicanism in general, together with a condemnation of monarchy and hereditary power in general.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
