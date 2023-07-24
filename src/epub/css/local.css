@@ -56,6 +56,18 @@ th + th{
 	text-align: right;
 }
 
+tfoot th{
+	font-weight: normal;
+}
+
+thead th{
+	text-align: right;
+}
+
+#endnotes thead tr:first-child th{
+	text-align: center;
+}
+
 td.total{
 	border-top: 1px solid;
 }
