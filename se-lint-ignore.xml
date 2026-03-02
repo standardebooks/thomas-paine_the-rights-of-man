@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-2-5.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>The flagged phrases are indeed independent clauses even though they don’t start with a capital letter.</reason>
 		</ignore>
 	</file>
