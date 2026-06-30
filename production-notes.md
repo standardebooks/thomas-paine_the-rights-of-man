@@ -1,0 +1,1 @@
+Because there are two parts to the work, published originally as separate volumes, each part has its own dedication, prefaces, etc. A single halftitle page precedes both parts. Also, I have had to take some liberties with the many tables in Chapter 5, Part 2, for clarity and to make them work properly in HTML, without changing the underlying data being displayed.
