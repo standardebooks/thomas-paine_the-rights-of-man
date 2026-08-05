@@ -83,7 +83,7 @@ figure{
 	text-align: center;
 }
 
-figure header{
+figure figcaption{
 	font-variant: small-caps;
 }
 
@@ -91,6 +91,6 @@ figure p{
 	text-indent: 0;
 }
 
-figure p:last-child{
+figure > p:last-child{
 	font-style: italic;
 }
