@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Rights of Man</dc:title>
 		<meta property="file-as" refines="#title">Rights of Man, The</meta>
-		<dc:subject id="subject-1">France -- History -- Revolution, 1789-1799 -- Causes</dc:subject>
+		<dc:subject id="subject-1">France--History--Revolution, 1789-1799--Causes</dc:subject>
 		<dc:subject id="subject-2">Political science</dc:subject>
-		<dc:subject id="subject-3">Great Britain -- Politics and government -- 1760-1820</dc:subject>
+		<dc:subject id="subject-3">Great Britain--Politics and government--1760-1820</dc:subject>
 		<dc:subject id="subject-4">Burke, Edmund, 1729-1797. Reflections on the revolution in France</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008115098</meta>
