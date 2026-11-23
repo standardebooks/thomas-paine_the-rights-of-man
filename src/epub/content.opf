@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3742</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001748296</dc:source>
-		<meta property="schema:wordCount">86703</meta>
+		<meta property="schema:wordCount">86689</meta>
 		<meta property="schema:educationalLevel">52.83</meta>
 		<link href="https://en.wikipedia.org/wiki/Rights_of_Man" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
